@@ -1,0 +1,41 @@
+[
+  {
+    "bug_id": "BUG-0001",
+    "title": "sign out button not working",
+    "description": "user is unable to signout",
+    "severity": "high",
+    "priority": "high",
+    "component": "login",
+    "status": "resolved",
+    "assignee": null,
+    "notes": [],
+    "created_at": "2026-06-09T05:43:43.467837+00:00",
+    "updated_at": "2026-06-09T05:44:28.012585+00:00"
+  },
+  {
+    "bug_id": "BUG-0002",
+    "title": "not checking the trfx id",
+    "description": "check the trfx id to decide the component action",
+    "severity": "medium",
+    "priority": "low",
+    "component": "business",
+    "status": "in-progress",
+    "assignee": null,
+    "notes": [],
+    "created_at": "2026-06-09T05:59:21.895907+00:00",
+    "updated_at": "2026-06-09T06:00:35.808068+00:00"
+  },
+  {
+    "bug_id": "BUG-0003",
+    "title": "search not working",
+    "description": "City search fails",
+    "severity": "low",
+    "priority": "low",
+    "component": "business",
+    "status": "in-progress",
+    "assignee": null,
+    "notes": [],
+    "created_at": "2026-06-09T06:10:08.067354+00:00",
+    "updated_at": "2026-06-09T06:11:18.177566+00:00"
+  }
+]
